@@ -1,10 +1,49 @@
+/*slider geral*/
+
 section.slider {
     margin: 0 auto;
     width: 100%;
     height: auto;
     padding: 0 in !important;
+    overflow: hidden;
 }
 
+/*Conteudo slider geral*/
+
 .slider-content {
-    
+    width: 400%;
+    height: auto;
+    display: flex;
+}
+
+.slider-content > input, .img-mobile{
+    display: none;
+}
+
+.slide-box {
+    width: 25%;
+    height: auto;
+    position: relative;
+    text-align: center;
+}
+
+.slide-box > img {
+    width: 100%;
+}
+
+/*Navegação manual*/
+
+nav.manual {
+    position: absolute;
+    width: 100%;
+    margin-top: 35%;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-manual .manual-btn {
+    border: 1px solid #be0741;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
 }
