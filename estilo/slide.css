@@ -42,9 +42,14 @@ section.slider {
 }
 
 .navmanual .manual-btn, .nav-auto div {
-    border: 1px solid #fff;
+    border: 1px solid #000000;
     padding: 10px;
     border-radius: 10px; 
     cursor: pointer;
     transition: .5s;
 }
+
+.nav-manual .manual-btn:not(:last-child), .nav-auto div:not(:last-child) {
+    margin-right: 10px;
+}
+
