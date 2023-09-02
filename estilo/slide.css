@@ -1,3 +1,5 @@
+/*slide*/
+
 section.slider {
     margin: 0 auto;
     width: 100%;
@@ -7,5 +9,42 @@ section.slider {
 }
 
 .slider-content {
-    
+    width: 400%;
+    height: auto;
+    display: flex;
+}
+
+.slider-content input, .img-mobile {
+    display: none;
+}
+
+.slide-box {
+    width: 25%;
+    height: auto;
+    position: relative;
+    text-align: center;
+    transition: 1s;
+}
+
+.slide-box img {
+    width: 100%;
+}
+
+
+/*nevegação manual & navegação automatica*/
+
+.nav-manual, .nav-auto {
+    position: absolute;
+    width: 100%;
+    margin-top: 35%;
+    display: flex;
+    justify-content: center;
+}
+
+.navmanual .manual-btn, .nav-auto div {
+    border: 1px solid #fff;
+    padding: 10px;
+    border-radius: 10px; 
+    cursor: pointer;
+    transition: .5s;
 }
