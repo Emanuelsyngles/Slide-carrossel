@@ -49,7 +49,3 @@ section.slider {
     transition: .5s;
 }
 
-.nav-manual .manual-btn:not(:last-child), .nav-auto div:not(:last-child) {
-    margin-right: 10px;
-}
-
