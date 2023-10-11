@@ -1,6 +1,6 @@
 import './App.css'
-import { useState, EffectFade } from 'react'
 import { Swiper, SwiperSlide } from 'swiper/react'
+import { EffectFade } from 'swiper/modules';
 
 function App() {
 const data = [
@@ -18,6 +18,8 @@ const data = [
       <h1 className="title">Slider com React JS</h1>
 
       <Swiper
+      modules={[EffectFade]}
+      effect="fade"
        slidesPerView={1}
        pagination={{clickable: true}}
        navigation
