@@ -1,8 +1,10 @@
+import './App.css'
+
 function App() {
 
   return (
-    <div>
-          
+    <div className="container">
+      <h1 className="title">Slider com React JS</h1>
     </div>
   )
 }
