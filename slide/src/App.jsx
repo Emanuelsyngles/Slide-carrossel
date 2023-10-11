@@ -1,5 +1,8 @@
 import './App.css'
+import { useState, EffectFade } from 'react'
+import { Swiper, SwiperSlide } from 'swiper/react'
 
+function App() {
 const data = [
   { id: '1', image: 'https://sujeitoprogramador.com/wp-content/uploads/2022/08/fullstack-blog.png'},
   { id: '2', image: 'https://sujeitoprogramador.com/wp-content/uploads/2022/08/home.png'},
@@ -7,9 +10,8 @@ const data = [
   { id: '4', image: 'https://sujeitoprogramador.com/wp-content/uploads/2022/01/thumb-1.png'},
 ]
 
-import {Swiper, SwiperSlide} from 'swiper/react'
 
-function App() {
+
 
   return (
     <div className="container">
