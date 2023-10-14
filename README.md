@@ -2,14 +2,15 @@
 
 
  ## Como funciona?
- - Ele vai me dizer quanto tempo falta para o fim do ano dias, horas, minutos e segundos e ele reinicia quando viramos o ano.
+- Esse é um slider, muito utilizado em sites ou plataformas de ensino, emprego dentre outras, clicando nas setas laterais ele passa a informação, ou então podemos
+- adicionar a passagem automática de cada imagem.
  
  ## Ferramentas 🔧
 - [ReactJS](https://react.dev/)
   
  ## Referêcias
 
- - [Matheus Battisti - Hora de Codar](https://www.youtube.com/@MatheusBattisti)
+ - [Sujeito programador](https://www.youtube.com/@Sujeitoprogramador)
 
  - Desenvolvido por Emanuel syngles.
 
