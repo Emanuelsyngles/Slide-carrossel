@@ -1,5 +1,5 @@
 
-
+![Captura de tela 2023-10-14 194644](https://github.com/Emanuelsyngles/Slide-carrossel/assets/122393755/ee5db159-9331-42b0-a45a-41bbcdb7f93f)
 
  ## Como funciona?
 - Esse é um slider, muito utilizado em sites ou plataformas de ensino, emprego dentre outras, clicando nas setas laterais ele passa a informação, ou então podemos
