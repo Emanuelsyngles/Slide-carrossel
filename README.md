@@ -6,7 +6,7 @@
 - Esse é um slider, muito utilizado em sites ou plataformas de ensino, emprego dentre outras, clicando nas setas laterais ele passa a informação, ou então podemos
 - adicionar a passagem automática de cada imagem.
 
- ##Como acessar?
+ ## Como acessar?
  - Acesse clicando no link: [projeto](https://slidercarrossel.netlify.app/)
  - 
  ## Ferramentas 🔧
