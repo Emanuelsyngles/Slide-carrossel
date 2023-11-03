@@ -8,7 +8,7 @@
 
  ## Como acessar?
  - Acesse clicando no link: [projeto](https://slidercarrossel.netlify.app/)
- - 
+
  ## Ferramentas 🔧
 - [ReactJS](https://react.dev/)
   
